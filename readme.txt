@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 no-ff model1
 
 stash
+
+stash1
